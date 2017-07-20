@@ -1,0 +1,8 @@
+{
+  "short_name": "test polygons",
+  "name": "poly",
+
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "landscape"
+}
